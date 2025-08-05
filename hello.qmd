@@ -1,0 +1,164 @@
+---
+title: "IFEANYICHUKWU EMEKA IDIAYE"
+format: 
+  html:
+    # theme: cerulean
+    theme:
+      light: cerulean
+      dark: [cerulean, theme.scss]
+    # css: styles.css
+    toc: true
+    toc-depth: 3
+    toc-expand: 2
+    toc-title: SECTIONS
+    smooth-scroll: true
+---
+
++234 806 710 1903 \| [idiayeifeanyi\@yahoo.com](mailto:idiayeifeanyi@yahoo.com) \| [https://www.linkedin.com/in/ifeanyi- idiaye-09523abb/](https://www.linkedin.com/in/ifeanyi-) \| <https://github.com/Ifeanyi55> \| <https://stackoverflow.com/users/17551958/idiaye>
+
+## PROFESSIONAL SUMMARY
+
+Internationally renowned Data Scientist, certified expert in Conversational & Generative AI and award-winning Digital Innovator with a decade-long track record of building AI-based innovations and novel data products that have impacted business decisions and advanced scientific research across marketing, business, and social spheres. Pioneered multiple open source software for streamlining data collection, analysis and visualization. Prolific Author demystifying programming, data visualization, and artificial intelligence for a global audience.
+
+## KEY SKILLS
+
+● Natural Language Processing
+
+● Generative AI 
+
+● Conversational AI 
+
+● Machine Learning 
+
+● Graph Data Science with Gephi 
+
+● R Programming 
+
+● R/Shiny Web Framework 
+
+● Python Programming 
+
+● Gradio Python Web Framework 
+
+● Web Development with HTML, CSS, and Javascript 
+
+● Neo4j Graph Database
+
+## AWARDS & ACHIEVEMENTS
+
+● Awarded the [Google Developer Expert AI/ML](https://developers.google.com/community/experts) in recognition of my exceptional leadership and impactful contributions to the field of AI/ML through open-source projects, public speaking, and the creation of engaging and insightful content.
+
+● Won 3rd place position at [The Data Lab](https://thedatalab.com/)’s inaugural International Data Visualization Contest between 4th September and 11th October 2023. Winning entry was an [interactive analytical dashboard](https://research-effort-analytics.netlify.app/#at-a-glance) showing research collaboration efforts in the area of mental health, with specific focus on depression, anxiety, and PTSD.
+
+● My contributions to the graph technology and analytics community earned me an invitation to a [YouTube Livestream](https://www.youtube.com/watch?v=ZADwMoBJ6GQ&t=2170s) organized by Neo4j on the 26th of April 2022, where I provided an indepth overview of one of my graph analytic projects along with a live code demonstration. The event has received over **800 views** on YouTube. 
+
+● Developed the [OpenAlex4Gephi](https://openalex4gephi.netlify.app/) software, which is an open source project that makes it easy for non-technical scientometric researchers in the [Gephi](https://gephi.org/) community to collect pre-formatted bimodal network data of authors to publications from Open Alex for analysis and visualization in Gephi without needing to write any code. The software receives on average over **500 monthly visitors**. This contribution and many others to the Gephi community has earned me the title of Top Contributor in the community.
+
+● Developed the [Graphic-Walker-Data-Explorer](https://graphic-walker-data-explorer.netlify.app/), which is used by data scientists and data analysts for fast data exploration with a drag and drop interface. The application gets on average over **700 monthly visitors**.
+
+● Have written over **200 technical articles** focused on programming, data visualization, and artificial intelligence on the [Statistics Globe](https://statisticsglobe.com/ifeanyi-idiaye) website, which receives an estimated **30,000 monthly viewers**. 
+
+● Speaker at International Social Media Research School, presenting open-source software projects for data collection from Spotify and OpenAlex APIs for NodeXL. 
+
+● Presented a technical deep-dive on text-to-image solutions in Python, sharing solution and Google Colab notebook with attendees at Data Science Nigeria Telegram Hour. 
+
+## PERSONAL & PRO-BONO DIGITAL PROJECTS 
+
+● Wrote an open-source R software package for converting PDF documents into Word, garnering 16 stars on GitHub and has widespread usage in the R programming community.
+
+● Developed Python software for turning images into narratives using Google's multimodal [Gemini model](https://aistudio.google.com/prompts/new_chat) API, attracting over **300 monthly visitors**.
+
+● Created face analyzing software for emotion, gender, and race detection, applicable in marketing, health, and business. 
+
+● Active contributor on [Stack Overflow](https://stackoverflow.com/users/17551958/idiaye), aiding **22000+ developers** with practical advice and debugging assistance. 
+
+● Article Writer on [Medium](https://ifeanyidiaye.medium.com/), covering projects in data analytics, web development, generative AI, and software, averaging **400 views** and **200 reads monthly**, with articles frequently added to reading lists. 
+
+● Active contributor in The Data Lab online community, sharing projects on AI, web development, programming, and technical writings. 
+
+● Volunteer assistance to individuals with coding and graph analysis projects, acknowledged in at least 2 academic research projects – by [Sezon Simon (2022 PhD thesis)](https://researchportal.scu.edu.au/esploro/outputs/doctoral/Truth-Lies-and-Chiropractic/991013089413302368/filesAndLinks?index=0) & [Mathieu Jacomy (2021 PhD thesis)](https://reticular.hypotheses.org/1879). 
+
+● Developed an investment returns calculator for easy weekly investment returns calculation. 
+
+● Created a dashboard for data.world Slack community, presenting survey data and analysis.
+
+## CAREER GRAPH 
+
+**Data Scientist & Developer \| Social Media Research Foundation \| California \| Jun 2022 – Present** *A collaboration to develop open source software for collecting and parsing publicly available data into formats compatible with NodeXL. (<http://www.smrfoundation.org/>)* 
+
+**Key accomplishments** 
+
+● Built an open-source data importer, with a simple user interface, for collecting and parsing related artists and artists’ collaboration network data from Spotify into a format that is compatible with NodeXL. 
+
+● Developed a software that automatically parses author to publication scientometric network data from openalex.org into a format that can be imported into NodeXL without writing code. 
+
+● Built an open-source tool for scraping and parsing conversational data from Bluesky into NodeXL-ready format for analysis and visualization.\
+● Continuous research into finding network patterns in data that is publicly available via API calls.
+
+**R & Python Programmer \| Statistics Globe \| Berlin \| Oct 2022 – Feb 2024** *An education and consulting platform dedicated to the fields of statistics, data science, R, and Python programming. (<https://statisticsglobe.com/>)*
+
+**Key accomplishments**
+
+● Created web content on R and Python programming, with particular focus on programming concepts, interactive data visualizations, and artificial intelligence.
+
+● Wrote over **150 articles** on both R and Python programming, focusing on both elementary and advanced concepts as well as building interactive data visualizations.
+
+● Researched and wrote over **50 articles** on Generative AI, Large Language Models (LLMs) and Prompting techniques, with particular focus on text-to-image models and text-to-text models (ChatGPT). 
+
+● Built AI-powered web applications (text summarization and image classification) that were linked as practical examples in the Generative AI web articles. 
+
+● Instructed in an online R programming course, answering programming questions and developing course exercise solutions.
+
+**Data Scientist \| SocialDatabase \| Amsterdam \| Oct 2020 – May 2022** *An advertising firm that specializes in digital networking, social media marketing, and database security services. (<https://www.socialdatabase.com/>)* 
+
+**Key accomplishments**
+
+● Wrote R and Python scripts to collect publicly available data from Twitter (now X) and use natural language processing methods to extract important information, such keywords, key phrases, sentiments, and relevant entities, which were used for influencer detection and to enrich the company’s database of influencer metadata. 
+
+● Extracted vital marketing insights from corpora of tweets using natural language processing and machine learning techniques, such as document classification, sentiment analysis, topic modelling, and named entity recognition. 
+
+● Developed an algorithm for scraping and tabulating metadata from collected tweets. This algorithm was a key piece in the data science workflow. 
+
+● Developed and presented interactive reports of the analysis of keyword queries on Twitter in web hosted HTML documents. 
+
+● Built an innovative web application with an interactive map that monitors trending topics, keywords, and hashtags on Twitter in different European countries for social insights, which formed the basis for developing social monitoring as a new service offering by the company. 
+
+● Designed a proof-of-concept product recommendation system as a potential feature addition to the company’s proprietary software for selling audiences to clients. Introduced relevant analytics – text analysis and emotion analysis – which were incorporated as features into the company’s proprietary software and were projected to increase client engagement by up to **15%**. 
+
+● Researched and developed a local CDN server, utilizing IPFS, for storing and distributing data. 
+
+● Joined the marketing team to meet with potential clients and discuss products and product subscription packages. 
+
+● Led the research into the potential value and impact of Bluesky, a decentralized social network protocol, on the business of social media marketing, presenting research findings to an audience of over 50 staff members, including the company CEO, at the company’s biweekly hands-on team meeting.
+
+**Data Analyst \| Centre for Research & Management (CREM) \| Lagos \| Feb 2019 – Sep 2019** *A consulting firm focused on research & development, learning & development, entrepreneurship solutions, outsourcing, and recruitment. ([http://www.cremnigeria.org](http://www.cremnigeria.org/))*
+
+**Key accomplishments** 
+
+● Initiated and engaged in a one-off research data analysis project into the impact of Grooming Centre Microfinance Bank’s loans on the business and wellbeing of its members.
+
+● Developed a web survey form used by enumerators to collect research data from respondents. 
+
+● Performed statistical analysis on the impact of Grooming Centre Microfinance Bank’s loans on the business and wellbeing of its members using relevant statistical tools. 
+
+● Developed a network graph visualizing the spread of Grooming Centre Microfinance Bank’s branches across Nigeria.
+
+## EDUCATIONAL QUALIFICATIONS
+
+● Bachelor of Science (Honors) Degree in Applied Accounting: Oxford Brookes University (2007 – 2012)
+
+● National Diploma in Cooperative Economics and Management: Federal Cooperative College (2003 – 2006)
+
+## CERTIFICATIONS 
+
+● ChatGPT for Everyone: Learn Prompting (2024) 
+
+● Health Information Engineering Certificate: Health Data Research UK (2023) 
+
+● Career Essentials in Generative AI: Microsoft Certificate of Completion (2023) 
+
+● Neo4j Fundamentals Certificate: Neo4j Graph Technology (2023)
+
+## HOBBIES AND INTERESTS
+
+Studying history, open-source projects, mentoring, data science research and reading.
